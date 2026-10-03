@@ -127,7 +127,7 @@ X_df = df[['Age']]         # Double brackets keep it 2D
 **[Your Name / GitHub Username]**  
 *AI / ML Engineer & Data Science Enthusiast*
 
-* 🌐 **GitHub:** [@yourhandle](https://github.com/)
+* 🌐 **GitHub[https://github.com/Ankit-Kumar-Jha-01/]** 
 * 💼 **LinkedIn:** [Your Profile](https://linkedin.com/in/)
 * 📝 **Repository:** Part of the [AI Interview Concepts](https://github.com/) collection—a practical repository designed to crack Machine Learning and AI interviews.
 
