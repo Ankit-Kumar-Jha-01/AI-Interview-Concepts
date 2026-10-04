@@ -149,6 +149,11 @@ New interview concepts and practical scenarios will be added as I continue learn
 
 B.Tech CSE — Data Science
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-🌐_Visit_Site-00D2FF?style=for-the-badge)](https://ankit-kumar-jha-01.github.io/portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-Ankit--Kumar--Jha--01-181717?style=for-the-badge&logo=github)](https://github.com/Ankit-Kumar-Jha-01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ankit--kumar--jhaa-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ankit-kumar-jhaa)
+
+
 Interested in:
 
 * Artificial Intelligence
@@ -160,4 +165,5 @@ Interested in:
 
 ---
 
-⭐ This repository is a personal learning resource and is continuously evolving.
+This repository is a personal learning resource and is continuously evolving. 
+Found this useful? Star ⭐ the repository to keep track of new AI/ML interview concepts!
