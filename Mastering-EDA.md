@@ -130,11 +130,11 @@ Spot critical issues that can throw off machine learning algorithms.
 
 ## ✍️ About the Author
 
-**[Your Name / GitHub Username]**  
+**[Ankit Kumar Jha]**  
 *AI / ML Engineer & Data Science Enthusiast*
 
-* 🌐 **GitHub:** [@yourhandle](https://github.com/)
-* 💼 **LinkedIn:** [Your Profile](https://linkedin.com/in/)
-* 📝 **Repository:** Part of the [AI Interview Concepts](https://github.com/) collection—a practical repository designed to crack Machine Learning and AI interviews.
+* 🌐 **[GitHub](https://github.com/Ankit-Kumar-Jha-01/)** 
+* 💼 **LinkedIn:** [Profile](www.linkedin.com/in/ankit-kumar-jhaa)
+* 📝 **Repository:** Part of the [AI Interview Concepts](https://github.com/Ankit-Kumar-Jha-01/AI-Interview-Concepts/) collection—a practical repository designed to crack Machine Learning and AI interviews.
 
 *If you found this guide helpful, don't forget to **⭐ Star** the repository!*
