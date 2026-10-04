@@ -122,13 +122,21 @@ X_df = df[['Age']]         # Double brackets keep it 2D
 
 ---
 
-## ✍️ About the Author
+---
 
-**[Your Name / GitHub Username]**  
-*AI / ML Engineer & Data Science Enthusiast*
+## 👨‍💻 About the Author
 
-* 🌐 **GitHub[https://github.com/Ankit-Kumar-Jha-01/]** 
-* 💼 **LinkedIn:** [Your Profile](https://linkedin.com/in/)
-* 📝 **Repository:** Part of the [AI Interview Concepts](https://github.com/) collection—a practical repository designed to crack Machine Learning and AI interviews.
+<div align="center">
 
-*If you found this guide helpful, don't forget to **⭐ Star** the repository!*
+### **Ankit Kumar Jha**  
+*Data Science & Machine Learning Enthusiast*
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-🌐_Visit_Site-00D2FF?style=for-the-badge)](https://ankit-kumar-jha-01.github.io/portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-Ankit--Kumar--Jha--01-181717?style=for-the-badge&logo=github)](https://github.com/Ankit-Kumar-Jha-01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ankit--kumar--jhaa-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ankit-kumar-jhaa)
+
+---
+
+*Found this useful? Star ⭐ the repository to keep track of new AI/ML interview concepts!*
+
+</div>
