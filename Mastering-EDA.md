@@ -143,6 +143,6 @@ Spot critical issues that can throw off machine learning algorithms.
 
 ---
 
-*Found this useful? Star ⭐ the repository to keep track of new AI/ML interview concepts!*
+*This repository is a personal learning resource and is continuously evolving. Found this useful? Star ⭐ the repository to keep track of new AI/ML interview concepts!*
 
 </div>
