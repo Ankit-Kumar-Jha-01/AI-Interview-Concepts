@@ -139,7 +139,6 @@ df = df.dropna(thresh=2)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ankit--kumar--jhaa-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ankit-kumar-jhaa)
 
 ---
-
-*Found this useful? Star ⭐ the repository to keep track of new AI/ML interview concepts!*
+*This repository is a personal learning resource and is continuously evolving. Found this useful? Star ⭐ the repository to keep track of new AI/ML interview concepts!*
 
 </div>
