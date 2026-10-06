@@ -1,4 +1,4 @@
-# ⚖️ Mastering Imbalanced Datasets & SMOTE — AI Interview Guide
+# ⚖️ Mastering Imbalanced Datasets & SMOTE — AI Interview Guide 
 
 > **Interview Scenario:** *"Your dataset has 95% negative samples and only 5% positive samples. Your accuracy is 95%, but your model fails completely in production. What went wrong, and how do you fix it?"*
 
@@ -10,21 +10,21 @@ When class proportions are severely unequal (e.g., $95\%$ Non-Fraud vs. $5\%$ Fr
 
 A dummy model that blindly predicts "Non-Fraud" for every single row will achieve $95\%$ accuracy while missing $100\%$ of actual fraud!
 
-### 📊 Right Metrics for Imbalanced Data
+### 📊 Right Metrics for Imbalanced Data 
 
 Instead of Accuracy, evaluate using:
 
 ```
-                  ┌──────────────────────────────────────────────┐
-                  │          Imbalanced Data Metrics             │
-                  └──────────────────────┬───────────────────────┘
-                                         │
-        ┌────────────────────────────────┼──────────────────────────────┐
-        ▼                                ▼                              ▼
-   [ Precision ]                    [ Recall ]                     [ F1-Score ]
-"Out of all predicted             "Out of all actual             Harmonic mean of
- positives, how many              positives, how many             Precision & Recall
- were correct?"                   did we catch?"                   (Overall balance)
+                          ┌──────────────────────────────────────────────┐
+                          │          Imbalanced Data Metrics             │
+                          └──────────────────────┬───────────────────────┘
+                                                 │
+        ┌────────────────────────────────────────┼──────────────────────────────────────┐
+        ▼                                        ▼                                      ▼
+   [ Precision ]                            [ Recall ]                             [ F1-Score ]
+"Out of all predicted                     "Out of all actual                     Harmonic mean of
+ positives, how many                      positives, how many                     Precision & Recall
+ were correct?"                           did we catch?"                           (Overall balance)
 ```
 
 $$\text{F1-Score} = 2 \times \frac{\text{Precision} \times \text{Recall}}{\text{Precision} + \text{Recall}}$$
