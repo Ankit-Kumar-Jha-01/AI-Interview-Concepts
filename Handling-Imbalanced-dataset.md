@@ -156,6 +156,6 @@ While SMOTE is powerful, watch out for these interview pitfalls:
 
 ---
 
-*Found this useful? Star ⭐ the repository to keep track of new AI/ML interview concepts!*
+*This repository is a personal learning resource and is continuously evolving. Found this useful? Star ⭐ the repository to keep track of new AI/ML interview concepts!*
 
 </div>
