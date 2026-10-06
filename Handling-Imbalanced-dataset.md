@@ -34,14 +34,14 @@ $$\text{F1-Score} = 2 \times \frac{\text{Precision} \times \text{Recall}}{\text{
 ## 🛠️ 4 Strategies to Handle Imbalanced Data
 
 ```
-                                  ┌─────────────────────────┐
-                                  │   Handling Imbalance    │
-                                  └────────────┬────────────┘
-                                               │
-         ┌──────────────────┬──────────────────┼──────────────────┐
-         ▼                  ▼                  ▼                  ▼
-   1. Resampling    2. Class Weights    3. Threshold Adjust  4. SMOTE (Synthetic)
- (Over/Under-sample)  (Cost-Sensitive)  (Shift default 0.5) (KNN-based Generation)
+                                              ┌─────────────────────────┐
+                                              │   Handling Imbalance    │
+                                              └────────────┬────────────┘
+                                                           │
+         ┌──────────────────────────────┬──────────────────────────────┼──────────────────────────────┐
+         ▼                              ▼                              ▼                              ▼
+   1. Resampling                2. Class Weights                3. Threshold Adjust              4. SMOTE (Synthetic)
+ (Over/Under-sample)              (Cost-Sensitive)              (Shift default 0.5)             (KNN-based Generation)
 ```
 
 ---
