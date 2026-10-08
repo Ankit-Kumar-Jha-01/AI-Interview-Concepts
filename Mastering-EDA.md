@@ -123,7 +123,7 @@ Spot critical issues that can throw off machine learning algorithms.
 
 1. **EDA = Understanding | Feature Engineering = Building:** Always distinguish between exploring data and transforming it.
 2. **Beware Data Leakage:** Compute stats (mean, std, scaling parameters) **only** on the training split.
-3. **Follow the 5 Pillars:** Structure $\rightarrow$ Missingness $\rightarrow$ Distributions $\rightarrow$ Relationships $\rightarrow$ Anomalies.
+3. **Follow the 5 Pillars:**  Structure $\rightarrow$ Missingness $\rightarrow$ Distributions $\rightarrow$ Relationships $\rightarrow$ Anomalies.
 4. **Watch for Imbalance & Outliers:** Early identification of data flaws dictates your downstream model selection and metric choices (e.g., F1-Score vs. Accuracy).
 
 ---
